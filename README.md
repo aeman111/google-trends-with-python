@@ -1,6 +1,6 @@
 # google-trends-with-python
 
-Welcome t my jupyter nootebook exploring google trends using python pakage pytrends
+Welcome to my jupyter nootebook exploring google trends using python package pytrends
 
 Whats in?
 - uses pytrends and pandas
